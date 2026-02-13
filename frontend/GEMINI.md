@@ -1,4 +1,4 @@
-This is a React/TypeScript project using Vite.
+# This is a React/TypeScript project using Vite
 
 - The main source code is in the `src` directory.
 - `App.tsx` is the main application component.

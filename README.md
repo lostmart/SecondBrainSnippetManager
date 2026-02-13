@@ -12,6 +12,9 @@ A web application for managing and organizing code snippets using Supabase backe
 - **Authentication** with Google OAuth and Email/Password sign-in
 - **Privacy (RLS)**: Every snippet is private to the creator by default. Users cannot see or modify others' snippets.
 
+![react frontend](react.webp "React Js")
+![supabase backend](supabase.webp "Supabase")
+
 ## Technology Stack
 
 - **Backend**: Supabase (PostgreSQL database)
