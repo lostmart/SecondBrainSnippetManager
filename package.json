@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "supabase": "^2.76.8"
+  },
+  "dependencies": {
+    "@google/gemini-cli": "^0.28.2"
+  }
+}

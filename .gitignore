@@ -1,0 +1,25 @@
+node_modules
+
+# Directories
+build
+dist
+
+# Files
+.DS_Store
+.env
+
+# Supabase
+.env
+
+# VSCode
+.vscode
+
+# frontend
+frontend/node_modules
+
+
+
+
+
+/CLAUDE.md
+CLAUDE.md
