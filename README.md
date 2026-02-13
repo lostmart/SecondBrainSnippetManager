@@ -17,12 +17,22 @@ A web application for managing and organizing code snippets using Supabase backe
 
 ## Technology Stack
 
-- **Backend**: Supabase (PostgreSQL database)
+- **Frontend**:
+  - React 19 + TypeScript
+  - Vite (build tool)
+  - Tailwind CSS (styling)
+  - ESLint (code quality)
+  - PostCSS + Autoprefixer (CSS processing)
+- **Backend**: Supabase (PostgreSQL database with RLS)
 - **AI Integration**: Google Gemini CLI
-- **Frontend**: Vite + React + TypeScript
-- **Node.js Project**: Configured with npm
+- **Package Manager**: npm
 
 ## Development Workflow
 
-- Use Claude Code to help with: + Frontend development tasks + Database schema design and migrations + Feature implementation + Bug fixes and debugging + Code refactoring
-  /**\*\*\*** ced792a6-d386-4543-b98d-11360c274d90 **\*\*\***/
+Use Claude Code to help with:
+
+- Frontend development tasks (React, TypeScript, Vite)
+- Database schema design and migrations
+- Feature implementation
+- Bug fixes and debugging
+- Code refactoring
