@@ -36,3 +36,23 @@ Use Claude Code to help with:
 - Feature implementation
 - Bug fixes and debugging
 - Code refactoring
+
+## Supabase Commands
+
+Manage your local Supabase development environment with these npm scripts:
+
+```bash
+npm run supabase:start      # Start the local Supabase dev environment
+npm run supabase:stop       # Stop Supabase services
+npm run supabase:status     # Check the status of running services
+npm run supabase:push       # Push migrations to the database
+npm run supabase:pull       # Pull database schema changes
+npm run supabase:reset      # Reset the local database to initial state
+```
+
+**Local URLs:**
+
+- **Studio** (Dashboard): <http://127.0.0.1:54323>
+- **REST API**: <http://127.0.0.1:54321/rest/v1>
+- **GraphQL API**: <http://127.0.0.1:54321/graphql/v1>
+- **Database**: `postgresql://postgres:postgres@127.0.0.1:54322/postgres`
